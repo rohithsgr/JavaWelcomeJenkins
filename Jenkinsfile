@@ -4,6 +4,7 @@ pipeline{
 			step{
 				echo "Logged in to node"
 				echo "testing node"
+				echo "testing again"
 			}
 
 		}
